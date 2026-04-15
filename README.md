@@ -88,12 +88,3 @@ The following visualizations were created:
 ## Conclusion
 
 This analysis demonstrates how customer data can be used to evaluate business stability, identify revenue patterns, and assess customer behavior. The results indicate a diversified and retention-driven customer base.
-
----
-
-## Future Improvements
-
-* Perform deeper customer segmentation (e.g., RFM analysis)
-* Build an interactive dashboard (e.g., Streamlit)
-* Analyze customer lifetime value
-* Apply clustering techniques for customer grouping
