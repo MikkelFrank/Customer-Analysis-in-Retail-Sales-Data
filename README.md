@@ -30,11 +30,10 @@ The goal of this project is to:
 ## Project Structure
 
 ```
-project/
+customer_analysis_project/
 ├── data/
 │   └── train.csv
-├── customer_analysis.ipynb
-├── README.md
+├── customer_analysis_project.ipynb
 ```
 
 ---
